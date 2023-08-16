@@ -1,0 +1,35 @@
+16.08.2023                           Salida dinámica de lista                                  1
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+|CeSu|Material|Texto breve material|Ce. |Nombre 1                 |Doc.compr.|Pos.|Cantidad|UMP|
+------------------------------------------------------------------------------------------------
+|FJ78|10035109|ADITIVO ISOSTAB 6003|F046|CXO-PLANTA OTOÑO         |4523314371|   4|  1.000 |L  |
+|FJ78|10035109|ADITIVO ISOSTAB 6003|FB40|CO-PLANTA BELLO LINEA 2  |4522158434|   3|    500 |L  |
+|FJ78|10037632|ISOXEL 436          |F055|CO-PLANTA SUMAPAZ        |4523407570|   4|    500 |L  |
+|FJ78|10037632|ISOXEL 436          |FB25|CO-PLANTA RIONEGRO       |4523401726|   2|  1.000 |L  |
+|FJ78|10037632|ISOXEL 436          |FB89|CO-CXO Paraíso Central   |4523093272|   4|    300 |L  |
+|FJ78|10037632|ISOXEL 436          |FB91|CO-PLANTA CALI SUR L2    |4523407564|   3|    500 |L  |
+|FJ78|10037634|ISORETARD 212       |F001|CO-PLANTA 240            |4523410917|   2|  1.500 |L  |
+|FJ78|10037634|ISORETARD 212       |F030|CO-PLANTA SOACHA         |4523410690|   3|    500 |L  |
+|FJ78|10037634|ISORETARD 212       |FB25|CO-PLANTA RIONEGRO       |4523401726|   1|  1.000 |L  |
+|FJ78|10037634|ISORETARD 212       |FB40|CO-PLANTA BELLO LINEA 2  |4522158434|   2|    500 |L  |
+|FJ78|10037637|ISOPLAST 159        |FB89|CO-CXO Paraíso Central   |4523093272|   2|  1.000 |L  |
+|FJ78|10037637|ISOPLAST 159        |FB91|CO-PLANTA CALI SUR L2    |4523407564|   1|  2.000 |L  |
+|FJ78|10037639|CX ISOFLOW 751      |F003|CO-PLANTA BOSA           |4523410765|   1|  1.000 |L  |
+|FJ78|10037639|CX ISOFLOW 751      |F046|CXO-PLANTA OTOÑO         |4523314371|   3|  1.000 |L  |
+|FJ78|10037639|CX ISOFLOW 751      |FB89|CO-CXO Paraíso Central   |4523093272|   1|  1.000 |L  |
+|FJ78|10037639|CX ISOFLOW 751      |FB91|CO-PLANTA CALI SUR L2    |4523407564|   2|  1.500 |L  |
+|FJ78|10037732|ISOPLAST 157        |F001|CO-PLANTA 240            |4523410917|   1|  2.000 |L  |
+|FJ78|10037732|ISOPLAST 157        |F003|CO-PLANTA BOSA           |4523410684|   4|  1.000 |L  |
+|FJ78|10037732|ISOPLAST 157        |F030|CO-PLANTA SOACHA         |4523410690|   2|  2.500 |L  |
+|FJ78|10037732|ISOPLAST 157        |F046|CXO-PLANTA OTOÑO         |4523314371|   5|    800 |L  |
+|FJ78|10037732|ISOPLAST 157        |F046|CXO-PLANTA OTOÑO         |4523320562|   1|  1.500 |L  |
+|FJ78|10101239|ISOPLAST 1600       |FB25|CO-PLANTA RIONEGRO       |4523401726|   3|  3.000 |L  |
+|FJ78|10132349|ISOFLOW 8800        |F030|CO-PLANTA SOACHA         |4523410690|   1|    500 |L  |
+|FJ78|10136958|ISOSPHERE 5200      |FB91|CO-PLANTA CALI SUR L2    |4523407564|   4|    100 |L  |
+|FJ78|10153182|ISOXEL 7600         |F044|CO - PLANTA CXO PHC Metro|4523410684|   1|  1.000 |L  |
+|FJ78|10193186|ISODENSE 250C       |F011|CO-PLANTA MEDELLIN       |4522158434|   1|  2.000 |L  |
+|FJ78|10216229|ISOFLOW 8902        |F015|CO-PLANTA CUCUTA         |4522534344|   1|    500 |L  |
+|FJ78|10216290|ISOFLOW 8000        |F044|CO - PLANTA CXO PHC Metro|4523410684|   2|  1.500 |L  |
+|FJ78|10233709|ISOFLOW 7630        |F044|CO - PLANTA CXO PHC Metro|4523410684|   3|    750 |L  |
+------------------------------------------------------------------------------------------------
